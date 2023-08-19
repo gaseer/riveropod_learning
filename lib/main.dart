@@ -17,7 +17,7 @@ void main() => runApp(ProviderScope(
           theme: ThemeData(
               backgroundColor: Colors.red, primaryColor: Colors.blue)),
     ));
-//
+
 // class MyApp extends StatelessWidget {
 //   const MyApp({Key? key}) : super(key: key);
 //
@@ -26,7 +26,6 @@ void main() => runApp(ProviderScope(
 //     return MaterialApp(
 //       home: RivaanRanawat(),
 //     );
-//   }
 // }
 
 class RivaanRanawat extends ConsumerWidget {
